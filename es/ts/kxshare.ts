@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Backup in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Copia de respaldo en %1</translation>
     </message>
 </context>
 <context>
@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>&amp;Select a Diagram Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seleccione un estilo de diagrama:</translation>
     </message>
 </context>
 <context>
@@ -39,7 +39,7 @@
     </message>
     <message>
         <source>&amp;Windows(Default)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Windows(Predeterminado)</translation>
     </message>
     <message>
         <source>&amp;Other encoding:</source>
@@ -227,11 +227,11 @@
     </message>
     <message>
         <source>ActiveX Control (*.ocx;*.dll)</source>
-        <translation type="unfinished"></translation>
+        <translation>Control ActiveX (*.ocx;*.dll)</translation>
     </message>
     <message>
         <source>Register Custom Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrar control personalizado</translation>
     </message>
     <message>
         <source>Can not register this control.</source>
@@ -246,7 +246,7 @@
     </message>
     <message>
         <source>error file list:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de archivos fallidos</translation>
     </message>
 </context>
 <context>
@@ -376,11 +376,11 @@
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Contraseña:</translation>
     </message>
     <message>
         <source>&amp;Read Only</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Sólo Lectura</translation>
     </message>
     <message>
         <source>Password</source>
@@ -395,15 +395,15 @@
     </message>
     <message>
         <source>&amp;Install new language</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar nuevo lenguaje</translation>
     </message>
     <message>
         <source>Get &amp;More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtener &amp;Más...</translation>
     </message>
     <message>
         <source>&amp;Follow system locale</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Seguir con la configuración del sistema</translation>
     </message>
     <message>
         <source>Choose Language Installation Package</source>
@@ -419,11 +419,11 @@
     </message>
     <message>
         <source>installation fails, make sure to install the complete package!</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalación falló, asegúrese que la instalación este completa</translation>
     </message>
     <message>
         <source>&amp;Reset personal template</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Restablecer plantilla personal</translation>
     </message>
     <message>
         <source>Information</source>
@@ -439,7 +439,7 @@
     <message>
         <source>Ctrl,Alt,Shift</source>
         <comment>Assistant key</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl,Alt,Shift</translation>
     </message>
     <message>
         <source>Ctrl</source>
@@ -454,7 +454,7 @@
     <message>
         <source>Shift</source>
         <comment>Shift key</comment>
-        <translation type="unfinished"></translation>
+        <translation>Shift</translation>
     </message>
 </context>
 <context>
@@ -480,7 +480,7 @@
     </message>
     <message>
         <source>* &amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>* &amp;Nombre:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the documents&apos; author)</source>
@@ -492,11 +492,11 @@
     </message>
     <message>
         <source>&amp;Organization:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Organización:</translation>
     </message>
     <message>
         <source>* &amp;Serial No.:</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de Serie:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1362,11 +1362,11 @@ Subíndices y superíndices</translation>
     </message>
     <message>
         <source>&amp;Toolbars</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Barras de herramientas</translation>
     </message>
     <message>
         <source>&amp;Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Comandos</translation>
     </message>
 </context>
 <context>
@@ -1381,7 +1381,7 @@ Subíndices y superíndices</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Nuevo</translation>
     </message>
     <message>
         <source>R&amp;ename</source>
@@ -1389,7 +1389,7 @@ Subíndices y superíndices</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Suprimir</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -1533,11 +1533,11 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>&amp;Icon:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Icono:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Examinar...</translation>
     </message>
     <message>
         <source>&amp;Caption:</source>
@@ -1633,11 +1633,11 @@ Toolbox), please purchase Kingsoft Office Professional.</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>Ta&amp;maño:</translation>
+        <translation>&amp;Tamaño:</translation>
     </message>
     <message>
         <source>&amp;Text:</source>
-        <translation>Te&amp;xto:</translation>
+        <translation>&amp;Texto:</translation>
     </message>
     <message utf8="true">
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -1703,11 +1703,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Pre&amp;set</source>
-        <translation>&amp;Preestablecer</translation>
+        <translation>Pre&amp;establecer</translation>
     </message>
     <message>
         <source>Color &amp;1:</source>
-        <translation>Co&amp;lor 1:</translation>
+        <translation>Color&amp;1:</translation>
     </message>
     <message>
         <source>Dar&amp;k</source>
