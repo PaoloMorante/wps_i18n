@@ -47,7 +47,7 @@
     </message>
     <message>
         <source>Error! Picture string contains unmatched quotation mark.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error! A la etiqueta de Imagen le falta una comilla</translation>
     </message>
     <message>
         <source>Error! The style name is not specified.</source>
@@ -70,7 +70,7 @@
     </message>
     <message>
         <source> </source>
-        <translation type="unfinished"></translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
@@ -98,7 +98,7 @@
     </message>
     <message>
         <source>_Top</source>
-        <translation type="unfinished"></translation>
+        <translation>_Superior</translation>
     </message>
 </context>
 <context>
@@ -347,7 +347,7 @@
     </message>
     <message>
         <source>Bar Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra tabulación</translation>
     </message>
     <message>
         <source>Move Table Column</source>
@@ -445,7 +445,7 @@
     </message>
     <message>
         <source>TemplateProject</source>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -453,7 +453,7 @@
     </message>
     <message>
         <source>ThisDocument</source>
-        <translation type="unfinished"></translation>
+        <translation>EsteDocumento</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -497,7 +497,7 @@
     </message>
     <message>
         <source>Pica</source>
-        <translation type="unfinished"></translation>
+        <translation>Pica</translation>
     </message>
     <message>
         <source> Page Number: %s   Page: %d/%d   Sec: %d/%d</source>
@@ -517,7 +517,7 @@
     </message>
     <message>
         <source>OVR</source>
-        <translation type="unfinished"></translation>
+        <translation>OVR</translation>
     </message>
     <message>
         <source>Previous Paragraph</source>
@@ -639,7 +639,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Toggle Revision Marks</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar marcas de revisión</translation>
     </message>
     <message>
         <source>This operation will delete all the elements in the table, do you want to continue?</source>
@@ -647,11 +647,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>SpellingCheck: On</source>
-        <translation type="unfinished"></translation>
+        <translation>VerificarOrtografía: Encendido</translation>
     </message>
     <message>
         <source>SpellingCheck: Off</source>
-        <translation type="unfinished"></translation>
+        <translation>VerificarOrtografía: Apagado</translation>
     </message>
     <message utf8="true">
         <source>Some browsers may not be able to display single file Web pages where the path includes those characters &quot;!”, “#”, “%20”, “%23” or “%25”, etc.. Do you want to continue?</source>
@@ -663,15 +663,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Herramientas</translation>
     </message>
     <message>
         <source>T&amp;ext tools</source>
-        <translation type="unfinished"></translation>
+        <translation>H&amp;erramientas de texto</translation>
     </message>
     <message>
         <source>REV</source>
-        <translation type="unfinished"></translation>
+        <translation>REV</translation>
     </message>
     <message>
         <source>Unit: cm</source>
@@ -743,9 +743,9 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Dotted heavy underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Subrayado fuerte de puntos</translation>
     </message>
-    <message>
+    <message> 
         <source>Dashed underline</source>
         <translation type="unfinished"></translation>
     </message>
@@ -843,23 +843,23 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Emboss</source>
-        <translation type="unfinished"></translation>
+        <translation>Relieve</translation>
     </message>
     <message>
         <source>Engrave</source>
-        <translation type="unfinished"></translation>
+        <translation>Grabado</translation>
     </message>
     <message>
         <source>Not </source>
-        <translation type="unfinished"></translation>
+        <translation>No </translation>
     </message>
     <message>
         <source>Small caps</source>
-        <translation type="unfinished"></translation>
+        <translation>Versales</translation>
     </message>
     <message>
         <source>All caps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mayúscula</translation>
     </message>
     <message>
         <source>Character scale</source>
@@ -879,15 +879,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Raised by </source>
-        <translation type="unfinished"></translation>
+        <translation>Planteado por </translation>
     </message>
     <message>
         <source>Lowered by </source>
-        <translation type="unfinished"></translation>
+        <translation>Reducido por </translation>
     </message>
     <message>
         <source>Raised by / Lowered by</source>
-        <translation type="unfinished"></translation>
+        <translation>Planteado por / Reducido por</translation>
     </message>
     <message>
         <source>Kern at </source>
@@ -927,7 +927,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Patrón</translation>
     </message>
     <message>
         <source>Left</source>
@@ -947,7 +947,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Distributed</source>
-        <translation type="unfinished"></translation>
+        <translation>Distribuido</translation>
     </message>
     <message>
         <source>Level %d</source>
@@ -1111,7 +1111,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Baseline</source>
-        <translation type="unfinished"></translation>
+        <translation>Línea base</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -1119,15 +1119,15 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Tab stops</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabuladores</translation>
     </message>
     <message>
         <source>leader</source>
-        <translation type="unfinished"></translation>
+        <translation>guía</translation>
     </message>
     <message>
         <source>Bulleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Viñetas</translation>
     </message>
     <message>
         <source>Numbered</source>
@@ -1191,7 +1191,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Different first page header and footer</source>
-        <translation type="unfinished"></translation>
+        <translation>Diferente primer encabezado y pie de página</translation>
     </message>
     <message>
         <source>Header distance from edge</source>
@@ -1207,11 +1207,11 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Specify line grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique línea cuadrícula</translation>
     </message>
     <message>
         <source>Specify line and character grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Especifique la línea y cuadrícula de caracteres</translation>
     </message>
     <message>
         <source>Text snaps to character grid</source>
